@@ -1,26 +1,64 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Jost:wght@300;400;500;600&display=swap'); */
+@import "tailwindcss";
 
 :root {
-  --bg: #F4F3F0;
-  --bg-deep: #EDECE8;
-  --text-primary: #111111;
-  --text-secondary: #6B6B6B;
-  --accent: #2563EB;
+  --bg: #F2F0EB;
+  --bg-deep: #E8E5DE;
+  --bg-card: #FAFAF8;
+  --text-primary: #0F0F0E;
+  --text-secondary: #5C5A55;
+  --text-muted: #9B9891;
+  --accent: #C8430A;
+  --accent-light: #F4EBE6;
+  --accent-hover: #A83608;
+  --border: #DDD9D0;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.10);
 }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
   background-color: var(--bg);
   color: var(--text-primary);
-  /* The Home component sets its own fonts, but we can set defaults here */
-  font-family: 'Jost', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Clear any Mapbox leftovers if needed */
+.font-display { font-family: 'DM Serif Display', serif; }
+
+/* Mapbox overrides */
 .mapboxgl-ctrl-attrib,
-.mapboxgl-ctrl-logo {
-  display: none !important;
+.mapboxgl-ctrl-logo { display: none !important; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-deep); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* Auth modal backdrop */
+.auth-backdrop {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.animate-fadeUp  { animation: fadeUp  0.4s ease both; }
+.animate-fadeIn  { animation: fadeIn  0.3s ease both; }
+.animate-scaleIn { animation: scaleIn 0.3s ease both; }
