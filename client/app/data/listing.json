@@ -1,0 +1,1512 @@
+{
+    "success": true,
+    "meta": {
+        "total_results": 50,
+        "per_page": 50,
+        "current_page": 1
+    },
+    "data": {
+        "properties": [
+            {
+                "property_id": "CA1000001",
+                "list_price": 1249000,
+                "address": {
+                    "street_number": "22",
+                    "street": "Wellesley St E",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M4Y 1G3",
+                    "latitude": 43.6656,
+                    "longitude": -79.3822
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2100,
+                    "lot_size": 3200,
+                    "year_built": 1992,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000001",
+                "agent": {
+                    "name": "Sarah Mitchell",
+                    "office": "Royal LePage Toronto"
+                },
+                "open_house": "2026-03-15T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000002",
+                "list_price": 875000,
+                "address": {
+                    "street_number": "145",
+                    "street": "St George St",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M5R 2L9",
+                    "latitude": 43.6688,
+                    "longitude": -79.3997
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1650,
+                    "lot_size": 2800,
+                    "year_built": 1975,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000002",
+                "agent": {
+                    "name": "James Kowalski",
+                    "office": "RE/MAX Realtron"
+                },
+                "open_house": "2026-03-22T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000003",
+                "list_price": 2150000,
+                "address": {
+                    "street_number": "18",
+                    "street": "Roxborough Dr",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M4W 1X4",
+                    "latitude": 43.6797,
+                    "longitude": -79.3847
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 4,
+                    "sqft_living": 3800,
+                    "lot_size": 6000,
+                    "year_built": 2005,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000003",
+                "agent": {
+                    "name": "Laura Chen",
+                    "office": "Sotheby's International Realty Canada"
+                },
+                "open_house": "2026-03-16T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000004",
+                "list_price": 698000,
+                "address": {
+                    "street_number": "4560",
+                    "street": "Rue Saint-Denis",
+                    "unit": null,
+                    "city": "Montreal",
+                    "state_code": "QC",
+                    "postal_code": "H2J 2L3",
+                    "latitude": 45.5271,
+                    "longitude": -73.5836
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1450,
+                    "lot_size": 2200,
+                    "year_built": 1968,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "MTL-CA1000004",
+                "agent": {
+                    "name": "Marc Tremblay",
+                    "office": "Sutton Groupe-Admiral"
+                },
+                "open_house": "2026-03-20T15:00:00Z"
+            },
+            {
+                "property_id": "CA1000005",
+                "list_price": 549000,
+                "address": {
+                    "street_number": "1234",
+                    "street": "Avenue du Mont-Royal E",
+                    "unit": null,
+                    "city": "Montreal",
+                    "state_code": "QC",
+                    "postal_code": "H2J 1X7",
+                    "latitude": 45.5301,
+                    "longitude": -73.5739
+                },
+                "description": {
+                    "beds": 2,
+                    "baths": 1,
+                    "sqft_living": 1050,
+                    "lot_size": 1800,
+                    "year_built": 1955,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "MTL-CA1000005",
+                "agent": {
+                    "name": "Sophie Lavoie",
+                    "office": "Royal LePage Montréal"
+                },
+                "open_house": "2026-03-21T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000006",
+                "list_price": 1395000,
+                "address": {
+                    "street_number": "2456",
+                    "street": "W 4th Ave",
+                    "unit": null,
+                    "city": "Vancouver",
+                    "state_code": "BC",
+                    "postal_code": "V6K 1R2",
+                    "latitude": 49.2674,
+                    "longitude": -123.1617
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2250,
+                    "lot_size": 4000,
+                    "year_built": 1988,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VAN-CA1000006",
+                "agent": {
+                    "name": "Michelle Park",
+                    "office": "Macdonald Realty"
+                },
+                "open_house": "2026-03-14T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000007",
+                "list_price": 1875000,
+                "address": {
+                    "street_number": "3882",
+                    "street": "Point Grey Rd",
+                    "unit": null,
+                    "city": "Vancouver",
+                    "state_code": "BC",
+                    "postal_code": "V6R 1B4",
+                    "latitude": 49.2741,
+                    "longitude": -123.1994
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 4,
+                    "sqft_living": 3600,
+                    "lot_size": 7200,
+                    "year_built": 2010,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VAN-CA1000007",
+                "agent": {
+                    "name": "Derek Huang",
+                    "office": "Sutton Group West Coast"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000008",
+                "list_price": 589000,
+                "address": {
+                    "street_number": "9765",
+                    "street": "100 St NW",
+                    "unit": null,
+                    "city": "Edmonton",
+                    "state_code": "AB",
+                    "postal_code": "T5K 0T8",
+                    "latitude": 53.5495,
+                    "longitude": -113.5025
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1750,
+                    "lot_size": 5500,
+                    "year_built": 1979,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "EDM-CA1000008",
+                "agent": {
+                    "name": "Tyler Brandt",
+                    "office": "RE/MAX Elite Edmonton"
+                },
+                "open_house": "2026-03-28T15:00:00Z"
+            },
+            {
+                "property_id": "CA1000009",
+                "list_price": 724000,
+                "address": {
+                    "street_number": "412",
+                    "street": "12 Ave SW",
+                    "unit": null,
+                    "city": "Calgary",
+                    "state_code": "AB",
+                    "postal_code": "T2R 0H4",
+                    "latitude": 51.0407,
+                    "longitude": -114.0826
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1900,
+                    "lot_size": 4800,
+                    "year_built": 1985,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "CAL-CA1000009",
+                "agent": {
+                    "name": "Amanda Flores",
+                    "office": "CIR Realty Calgary"
+                },
+                "open_house": "2026-03-19T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000010",
+                "list_price": 949000,
+                "address": {
+                    "street_number": "735",
+                    "street": "13 Ave SW",
+                    "unit": null,
+                    "city": "Calgary",
+                    "state_code": "AB",
+                    "postal_code": "T2R 0M4",
+                    "latitude": 51.0396,
+                    "longitude": -114.0793
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2600,
+                    "lot_size": 5200,
+                    "year_built": 2003,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "CAL-CA1000010",
+                "agent": {
+                    "name": "Kevin Sorensen",
+                    "office": "Royal LePage Benchmark"
+                },
+                "open_house": "2026-03-22T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000011",
+                "list_price": 479000,
+                "address": {
+                    "street_number": "1450",
+                    "street": "Pembina Hwy",
+                    "unit": null,
+                    "city": "Winnipeg",
+                    "state_code": "MB",
+                    "postal_code": "R3T 2C2",
+                    "latitude": 49.8392,
+                    "longitude": -97.1541
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1380,
+                    "lot_size": 4600,
+                    "year_built": 1972,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WIN-CA1000011",
+                "agent": {
+                    "name": "Nicole Deschamps",
+                    "office": "Coldwell Banker Preferred Real Estate"
+                },
+                "open_house": "2026-03-29T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000012",
+                "list_price": 389000,
+                "address": {
+                    "street_number": "123",
+                    "street": "Wascana Pkwy",
+                    "unit": null,
+                    "city": "Regina",
+                    "state_code": "SK",
+                    "postal_code": "S4P 3V7",
+                    "latitude": 50.4379,
+                    "longitude": -104.6178
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1280,
+                    "lot_size": 5000,
+                    "year_built": 1966,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "REG-CA1000012",
+                "agent": {
+                    "name": "Darren Wiebe",
+                    "office": "RE/MAX Crown Real Estate"
+                },
+                "open_house": "2026-04-05T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000013",
+                "list_price": 619000,
+                "address": {
+                    "street_number": "347",
+                    "street": "Third Ave S",
+                    "unit": null,
+                    "city": "Saskatoon",
+                    "state_code": "SK",
+                    "postal_code": "S7K 1M5",
+                    "latitude": 52.1309,
+                    "longitude": -106.6734
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2050,
+                    "lot_size": 6000,
+                    "year_built": 1995,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "SAS-CA1000013",
+                "agent": {
+                    "name": "Brittany Olson",
+                    "office": "Coldwell Banker Signature"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000014",
+                "list_price": 729000,
+                "address": {
+                    "street_number": "60",
+                    "street": "Lakeview Ave W",
+                    "unit": null,
+                    "city": "Barrie",
+                    "state_code": "ON",
+                    "postal_code": "L4N 4R8",
+                    "latitude": 44.3878,
+                    "longitude": -79.7025
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2300,
+                    "lot_size": 7500,
+                    "year_built": 2001,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "BAR-CA1000014",
+                "agent": {
+                    "name": "Patrick Sullivan",
+                    "office": "Royal LePage First Contact"
+                },
+                "open_house": "2026-03-22T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000015",
+                "list_price": 895000,
+                "address": {
+                    "street_number": "78",
+                    "street": "Main St W",
+                    "unit": null,
+                    "city": "Hamilton",
+                    "state_code": "ON",
+                    "postal_code": "L8P 1H6",
+                    "latitude": 43.2558,
+                    "longitude": -79.8711
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1750,
+                    "lot_size": 4400,
+                    "year_built": 1960,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "HAM-CA1000015",
+                "agent": {
+                    "name": "Rachel Thomson",
+                    "office": "Judy Marsales Real Estate"
+                },
+                "open_house": "2026-04-05T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000016",
+                "list_price": 1050000,
+                "address": {
+                    "street_number": "256",
+                    "street": "University Ave W",
+                    "unit": null,
+                    "city": "Waterloo",
+                    "state_code": "ON",
+                    "postal_code": "N2L 3G5",
+                    "latitude": 43.4752,
+                    "longitude": -80.5238
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2450,
+                    "lot_size": 6800,
+                    "year_built": 2009,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WAT-CA1000016",
+                "agent": {
+                    "name": "Greg Mendes",
+                    "office": "Chestnut Park Real Estate"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000017",
+                "list_price": 825000,
+                "address": {
+                    "street_number": "89",
+                    "street": "King St W",
+                    "unit": null,
+                    "city": "Kitchener",
+                    "state_code": "ON",
+                    "postal_code": "N2G 1A1",
+                    "latitude": 43.4516,
+                    "longitude": -80.4931
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1600,
+                    "lot_size": 4200,
+                    "year_built": 1982,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "KIT-CA1000017",
+                "agent": {
+                    "name": "Sandra Bell",
+                    "office": "RE/MAX Twin City Realty"
+                },
+                "open_house": "2026-03-15T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000018",
+                "list_price": 999000,
+                "address": {
+                    "street_number": "305",
+                    "street": "Oxford St W",
+                    "unit": null,
+                    "city": "London",
+                    "state_code": "ON",
+                    "postal_code": "N6H 1S7",
+                    "latitude": 42.9875,
+                    "longitude": -81.2802
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2700,
+                    "lot_size": 7000,
+                    "year_built": 1997,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "LON-CA1000018",
+                "agent": {
+                    "name": "Mathew Patel",
+                    "office": "Century 21 First Canadian"
+                },
+                "open_house": "2026-03-29T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000019",
+                "list_price": 649000,
+                "address": {
+                    "street_number": "100",
+                    "street": "Queen St N",
+                    "unit": null,
+                    "city": "Kitchener",
+                    "state_code": "ON",
+                    "postal_code": "N2H 6P7",
+                    "latitude": 43.4565,
+                    "longitude": -80.4849
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1500,
+                    "lot_size": 3800,
+                    "year_built": 1970,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "KIT-CA1000019",
+                "agent": {
+                    "name": "Lisa Nguyen",
+                    "office": "Royal LePage Wolle Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000020",
+                "list_price": 1199000,
+                "address": {
+                    "street_number": "2100",
+                    "street": "Gottingen St",
+                    "unit": null,
+                    "city": "Halifax",
+                    "state_code": "NS",
+                    "postal_code": "B3K 3B6",
+                    "latitude": 44.6632,
+                    "longitude": -63.6018
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2800,
+                    "lot_size": 6500,
+                    "year_built": 2012,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "HAL-CA1000020",
+                "agent": {
+                    "name": "Alicia Monroe",
+                    "office": "Royal LePage Atlantic"
+                },
+                "open_house": "2026-04-12T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000021",
+                "list_price": 498000,
+                "address": {
+                    "street_number": "450",
+                    "street": "Quinpool Rd",
+                    "unit": null,
+                    "city": "Halifax",
+                    "state_code": "NS",
+                    "postal_code": "B3H 4E5",
+                    "latitude": 44.6479,
+                    "longitude": -63.6094
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1420,
+                    "lot_size": 4000,
+                    "year_built": 1963,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "HAL-CA1000021",
+                "agent": {
+                    "name": "Troy MacLean",
+                    "office": "Engel & Völkers Halifax"
+                },
+                "open_house": "2026-03-21T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000022",
+                "list_price": 555000,
+                "address": {
+                    "street_number": "700",
+                    "street": "King St E",
+                    "unit": null,
+                    "city": "Hamilton",
+                    "state_code": "ON",
+                    "postal_code": "L8M 1A8",
+                    "latitude": 43.2478,
+                    "longitude": -79.8434
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1550,
+                    "lot_size": 3600,
+                    "year_built": 1958,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "HAM-CA1000022",
+                "agent": {
+                    "name": "Karen Booth",
+                    "office": "RE/MAX Escarpment Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000023",
+                "list_price": 799000,
+                "address": {
+                    "street_number": "555",
+                    "street": "Rue Sherbrooke O",
+                    "unit": null,
+                    "city": "Montreal",
+                    "state_code": "QC",
+                    "postal_code": "H3A 1B9",
+                    "latitude": 45.5042,
+                    "longitude": -73.5784
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1700,
+                    "lot_size": 3200,
+                    "year_built": 1980,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "MTL-CA1000023",
+                "agent": {
+                    "name": "Pierre Gauthier",
+                    "office": "Groupe Sutton – Centre-Ouest"
+                },
+                "open_house": "2026-03-28T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000024",
+                "list_price": 319000,
+                "address": {
+                    "street_number": "1000",
+                    "street": "Portage Ave",
+                    "unit": null,
+                    "city": "Winnipeg",
+                    "state_code": "MB",
+                    "postal_code": "R3G 0R9",
+                    "latitude": 49.8958,
+                    "longitude": -97.1616
+                },
+                "description": {
+                    "beds": 2,
+                    "baths": 1,
+                    "sqft_living": 980,
+                    "lot_size": 3200,
+                    "year_built": 1952,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WIN-CA1000024",
+                "agent": {
+                    "name": "Cindy Leblanc",
+                    "office": "RE/MAX Professionals"
+                },
+                "open_house": "2026-04-05T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000025",
+                "list_price": 1625000,
+                "address": {
+                    "street_number": "3550",
+                    "street": "W Broadway",
+                    "unit": null,
+                    "city": "Vancouver",
+                    "state_code": "BC",
+                    "postal_code": "V6R 2B8",
+                    "latitude": 49.2634,
+                    "longitude": -123.1841
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 4,
+                    "sqft_living": 3200,
+                    "lot_size": 5800,
+                    "year_built": 2008,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VAN-CA1000025",
+                "agent": {
+                    "name": "Eric Tan",
+                    "office": "Oakwyn Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000026",
+                "list_price": 745000,
+                "address": {
+                    "street_number": "189",
+                    "street": "Elgin St",
+                    "unit": null,
+                    "city": "Ottawa",
+                    "state_code": "ON",
+                    "postal_code": "K2P 1L7",
+                    "latitude": 45.4179,
+                    "longitude": -75.6912
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1800,
+                    "lot_size": 4100,
+                    "year_built": 1977,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "OTT-CA1000026",
+                "agent": {
+                    "name": "Frances O'Brien",
+                    "office": "Ottawa Property Shop"
+                },
+                "open_house": "2026-03-15T12:00:00Z"
+            },
+            {
+                "property_id": "CA1000027",
+                "list_price": 889000,
+                "address": {
+                    "street_number": "300",
+                    "street": "Laurier Ave W",
+                    "unit": null,
+                    "city": "Ottawa",
+                    "state_code": "ON",
+                    "postal_code": "K1P 5J4",
+                    "latitude": 45.4221,
+                    "longitude": -75.7060
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2350,
+                    "lot_size": 5600,
+                    "year_built": 1999,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "OTT-CA1000027",
+                "agent": {
+                    "name": "Wayne Girard",
+                    "office": "Engel & Völkers Ottawa"
+                },
+                "open_house": "2026-03-22T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000028",
+                "list_price": 499000,
+                "address": {
+                    "street_number": "2345",
+                    "street": "Rue Notre-Dame O",
+                    "unit": null,
+                    "city": "Montreal",
+                    "state_code": "QC",
+                    "postal_code": "H3J 1N5",
+                    "latitude": 45.4794,
+                    "longitude": -73.5883
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1350,
+                    "lot_size": 2600,
+                    "year_built": 1957,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "MTL-CA1000028",
+                "agent": {
+                    "name": "Josée Bouchard",
+                    "office": "Via Capitale du Mont-Royal"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000029",
+                "list_price": 1459000,
+                "address": {
+                    "street_number": "1205",
+                    "street": "Marine Dr",
+                    "unit": null,
+                    "city": "West Vancouver",
+                    "state_code": "BC",
+                    "postal_code": "V7T 1B5",
+                    "latitude": 49.3256,
+                    "longitude": -123.1520
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 4,
+                    "sqft_living": 3800,
+                    "lot_size": 8500,
+                    "year_built": 2015,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WVN-CA1000029",
+                "agent": {
+                    "name": "Wendy Zhou",
+                    "office": "RE/MAX Masters Realty"
+                },
+                "open_house": "2026-03-14T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000030",
+                "list_price": 669000,
+                "address": {
+                    "street_number": "892",
+                    "street": "Upper James St",
+                    "unit": null,
+                    "city": "Hamilton",
+                    "state_code": "ON",
+                    "postal_code": "L9C 3A4",
+                    "latitude": 43.2176,
+                    "longitude": -79.8879
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1650,
+                    "lot_size": 5200,
+                    "year_built": 1991,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "HAM-CA1000030",
+                "agent": {
+                    "name": "Chris Vandenberg",
+                    "office": "Keller Williams Complete Realty"
+                },
+                "open_house": "2026-04-12T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000031",
+                "list_price": 785000,
+                "address": {
+                    "street_number": "1147",
+                    "street": "Yonge St",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M4T 2Y1",
+                    "latitude": 43.6853,
+                    "longitude": -79.3928
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1720,
+                    "lot_size": 3000,
+                    "year_built": 1967,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000031",
+                "agent": {
+                    "name": "Donna Steele",
+                    "office": "Harvey Kalles Real Estate"
+                },
+                "open_house": "2026-03-20T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000032",
+                "list_price": 1825000,
+                "address": {
+                    "street_number": "65",
+                    "street": "Forest Hill Rd",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M5P 2N5",
+                    "latitude": 43.6946,
+                    "longitude": -79.4163
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 4,
+                    "sqft_living": 4500,
+                    "lot_size": 9200,
+                    "year_built": 2019,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000032",
+                "agent": {
+                    "name": "Victoria Hunt",
+                    "office": "Sotheby's International Realty Canada"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000033",
+                "list_price": 429000,
+                "address": {
+                    "street_number": "2060",
+                    "street": "Broad St",
+                    "unit": null,
+                    "city": "Regina",
+                    "state_code": "SK",
+                    "postal_code": "S4P 3T4",
+                    "latitude": 50.4505,
+                    "longitude": -104.6013
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1350,
+                    "lot_size": 5500,
+                    "year_built": 1978,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "REG-CA1000033",
+                "agent": {
+                    "name": "Stan Friesen",
+                    "office": "Century 21 Dome Realty"
+                },
+                "open_house": "2026-04-18T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000034",
+                "list_price": 534000,
+                "address": {
+                    "street_number": "488",
+                    "street": "Pelissier St",
+                    "unit": null,
+                    "city": "Windsor",
+                    "state_code": "ON",
+                    "postal_code": "N9A 4L2",
+                    "latitude": 42.3178,
+                    "longitude": -83.0335
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1420,
+                    "lot_size": 4600,
+                    "year_built": 1963,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WIN-CA1000034",
+                "agent": {
+                    "name": "Gloria Reyes",
+                    "office": "RE/MAX Capital Diamond Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000035",
+                "list_price": 1099000,
+                "address": {
+                    "street_number": "500",
+                    "street": "Bloor St W",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M5S 1Y8",
+                    "latitude": 43.6657,
+                    "longitude": -79.4096
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2600,
+                    "lot_size": 5000,
+                    "year_built": 2003,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000035",
+                "agent": {
+                    "name": "Nathan Brooks",
+                    "office": "Bosley Real Estate"
+                },
+                "open_house": "2026-03-28T12:00:00Z"
+            },
+            {
+                "property_id": "CA1000036",
+                "list_price": 579000,
+                "address": {
+                    "street_number": "112",
+                    "street": "Dunlop St W",
+                    "unit": null,
+                    "city": "Barrie",
+                    "state_code": "ON",
+                    "postal_code": "L4N 1A8",
+                    "latitude": 44.3896,
+                    "longitude": -79.6930
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1500,
+                    "lot_size": 4500,
+                    "year_built": 1987,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "BAR-CA1000036",
+                "agent": {
+                    "name": "Owen Riley",
+                    "office": "Coldwell Banker The Real Estate Centre"
+                },
+                "open_house": "2026-04-11T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000037",
+                "list_price": 875000,
+                "address": {
+                    "street_number": "1488",
+                    "street": "Huron Church Rd",
+                    "unit": null,
+                    "city": "Windsor",
+                    "state_code": "ON",
+                    "postal_code": "N9C 2K3",
+                    "latitude": 42.2855,
+                    "longitude": -83.0575
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2450,
+                    "lot_size": 6500,
+                    "year_built": 2011,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WIN-CA1000037",
+                "agent": {
+                    "name": "Betty Iannone",
+                    "office": "Jump Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000038",
+                "list_price": 1375000,
+                "address": {
+                    "street_number": "3400",
+                    "street": "Dufferin St",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M6A 2S9",
+                    "latitude": 43.7103,
+                    "longitude": -79.4487
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2900,
+                    "lot_size": 5800,
+                    "year_built": 2014,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000038",
+                "agent": {
+                    "name": "Isabelle Santos",
+                    "office": "Keller Williams Referred Urban Realty"
+                },
+                "open_house": "2026-03-20T15:00:00Z"
+            },
+            {
+                "property_id": "CA1000039",
+                "list_price": 649000,
+                "address": {
+                    "street_number": "2288",
+                    "street": "Commissioner St",
+                    "unit": null,
+                    "city": "Vancouver",
+                    "state_code": "BC",
+                    "postal_code": "V5L 1A9",
+                    "latitude": 49.2814,
+                    "longitude": -123.0705
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1420,
+                    "lot_size": 3400,
+                    "year_built": 1968,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VAN-CA1000039",
+                "agent": {
+                    "name": "Cameron Walsh",
+                    "office": "Rennie & Associates Realty"
+                },
+                "open_house": "2026-03-21T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000040",
+                "list_price": 715000,
+                "address": {
+                    "street_number": "875",
+                    "street": "Pembina Hwy",
+                    "unit": null,
+                    "city": "Winnipeg",
+                    "state_code": "MB",
+                    "postal_code": "R3M 2M8",
+                    "latitude": 49.8553,
+                    "longitude": -97.1555
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2100,
+                    "lot_size": 5800,
+                    "year_built": 2002,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "WIN-CA1000040",
+                "agent": {
+                    "name": "Rhonda Klassen",
+                    "office": "Royal LePage Dynamic Real Estate"
+                },
+                "open_house": "2026-04-05T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000041",
+                "list_price": 1165000,
+                "address": {
+                    "street_number": "980",
+                    "street": "Burnside Rd W",
+                    "unit": null,
+                    "city": "Victoria",
+                    "state_code": "BC",
+                    "postal_code": "V8Z 1P2",
+                    "latitude": 48.4677,
+                    "longitude": -123.3836
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2800,
+                    "lot_size": 7500,
+                    "year_built": 2007,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VIC-CA1000041",
+                "agent": {
+                    "name": "Heather Macintosh",
+                    "office": "Macdonald Realty Victoria"
+                },
+                "open_house": "2026-03-21T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000042",
+                "list_price": 899000,
+                "address": {
+                    "street_number": "555",
+                    "street": "Fort St",
+                    "unit": null,
+                    "city": "Victoria",
+                    "state_code": "BC",
+                    "postal_code": "V8W 1E7",
+                    "latitude": 48.4260,
+                    "longitude": -123.3618
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1900,
+                    "lot_size": 4600,
+                    "year_built": 1985,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VIC-CA1000042",
+                "agent": {
+                    "name": "Tanya Erikson",
+                    "office": "Newport Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000043",
+                "list_price": 689000,
+                "address": {
+                    "street_number": "9222",
+                    "street": "182 St NW",
+                    "unit": null,
+                    "city": "Edmonton",
+                    "state_code": "AB",
+                    "postal_code": "T5T 0T3",
+                    "latitude": 53.5269,
+                    "longitude": -113.6185
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2250,
+                    "lot_size": 6200,
+                    "year_built": 2006,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "EDM-CA1000043",
+                "agent": {
+                    "name": "Kyle Arsenault",
+                    "office": "Exp Realty"
+                },
+                "open_house": "2026-03-28T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000044",
+                "list_price": 459000,
+                "address": {
+                    "street_number": "8102",
+                    "street": "90 Ave NW",
+                    "unit": null,
+                    "city": "Edmonton",
+                    "state_code": "AB",
+                    "postal_code": "T6C 1R9",
+                    "latitude": 53.5243,
+                    "longitude": -113.4618
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1400,
+                    "lot_size": 5000,
+                    "year_built": 1974,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "EDM-CA1000044",
+                "agent": {
+                    "name": "Brenda Kowalchuk",
+                    "office": "Century 21 All Stars Realty"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000045",
+                "list_price": 559000,
+                "address": {
+                    "street_number": "135",
+                    "street": "Main St N",
+                    "unit": null,
+                    "city": "Brampton",
+                    "state_code": "ON",
+                    "postal_code": "L6V 1P2",
+                    "latitude": 43.6839,
+                    "longitude": -79.7596
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1480,
+                    "lot_size": 4000,
+                    "year_built": 1971,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "BRA-CA1000045",
+                "agent": {
+                    "name": "Gurpreet Sidhu",
+                    "office": "RE/MAX Gold Realty"
+                },
+                "open_house": "2026-03-22T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000046",
+                "list_price": 975000,
+                "address": {
+                    "street_number": "6400",
+                    "street": "Bathurst St",
+                    "unit": null,
+                    "city": "Toronto",
+                    "state_code": "ON",
+                    "postal_code": "M2R 2A3",
+                    "latitude": 43.7636,
+                    "longitude": -79.4440
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2500,
+                    "lot_size": 5500,
+                    "year_built": 1996,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "TOR-CA1000046",
+                "agent": {
+                    "name": "Adil Patel",
+                    "office": "iPro Realty"
+                },
+                "open_house": "2026-04-11T13:00:00Z"
+            },
+            {
+                "property_id": "CA1000047",
+                "list_price": 339000,
+                "address": {
+                    "street_number": "756",
+                    "street": "Taylor St E",
+                    "unit": null,
+                    "city": "Saskatoon",
+                    "state_code": "SK",
+                    "postal_code": "S7H 1W4",
+                    "latitude": 52.1204,
+                    "longitude": -106.6215
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 1,
+                    "sqft_living": 1100,
+                    "lot_size": 4800,
+                    "year_built": 1961,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "SAS-CA1000047",
+                "agent": {
+                    "name": "Tom Hryniuk",
+                    "office": "Royal LePage Saskatoon Real Estate"
+                },
+                "open_house": null
+            },
+            {
+                "property_id": "CA1000048",
+                "list_price": 1299000,
+                "address": {
+                    "street_number": "42",
+                    "street": "Monkland Ave",
+                    "unit": null,
+                    "city": "Montreal",
+                    "state_code": "QC",
+                    "postal_code": "H4A 1G3",
+                    "latitude": 45.4759,
+                    "longitude": -73.6286
+                },
+                "description": {
+                    "beds": 5,
+                    "baths": 3,
+                    "sqft_living": 3100,
+                    "lot_size": 6800,
+                    "year_built": 2017,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "MTL-CA1000048",
+                "agent": {
+                    "name": "Christine Audet",
+                    "office": "Groupe Sutton – Plateau-Mont-Royal"
+                },
+                "open_house": "2026-03-20T14:00:00Z"
+            },
+            {
+                "property_id": "CA1000049",
+                "list_price": 779000,
+                "address": {
+                    "street_number": "1620",
+                    "street": "Scott St",
+                    "unit": null,
+                    "city": "Ottawa",
+                    "state_code": "ON",
+                    "postal_code": "K1Y 2N9",
+                    "latitude": 45.4037,
+                    "longitude": -75.7406
+                },
+                "description": {
+                    "beds": 3,
+                    "baths": 2,
+                    "sqft_living": 1870,
+                    "lot_size": 4500,
+                    "year_built": 1982,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "OTT-CA1000049",
+                "agent": {
+                    "name": "Hugo Tremblay",
+                    "office": "Coldwell Banker Rhodes & Company"
+                },
+                "open_house": "2026-04-18T11:00:00Z"
+            },
+            {
+                "property_id": "CA1000050",
+                "list_price": 1089000,
+                "address": {
+                    "street_number": "2021",
+                    "street": "Oak Bay Ave",
+                    "unit": null,
+                    "city": "Victoria",
+                    "state_code": "BC",
+                    "postal_code": "V8R 1E7",
+                    "latitude": 48.4318,
+                    "longitude": -123.3275
+                },
+                "description": {
+                    "beds": 4,
+                    "baths": 3,
+                    "sqft_living": 2700,
+                    "lot_size": 7000,
+                    "year_built": 2009,
+                    "property_type": "single_family_residential"
+                },
+                "photo": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+                "status": "for_sale",
+                "listing_id": "VIC-CA1000050",
+                "agent": {
+                    "name": "Sandra Penner",
+                    "office": "Pemberton Holmes"
+                },
+                "open_house": "2026-03-21T13:00:00Z"
+            }
+        ]
+    }
+}
